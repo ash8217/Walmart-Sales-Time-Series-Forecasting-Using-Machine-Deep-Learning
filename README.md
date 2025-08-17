@@ -1,7 +1,7 @@
 ﻿# Walmart Sales Time Series Forecasting Using Machine and Deep Learning
  Time Series Forecasting of Walmart Sales Data using Deep Learning and Machine Learning
 
-# Retail Sales Forecasting Project
+
 # Walmart Recruiting - Store Sales Forecasting
 
 Data source: [Kaggle competition – Walmart Recruiting: Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
